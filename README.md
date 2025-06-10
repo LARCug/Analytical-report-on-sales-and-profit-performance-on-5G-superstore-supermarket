@@ -53,33 +53,45 @@ KEY OBSERVATIONS
 
 Sales by Order month
 
-https://i.postimg.cc/MHSRLz59/1.jpg
+![1](https://github.com/user-attachments/assets/dc07e99f-e2cb-43b4-95e6-036d179eff69)
 
 Across the years,customers mostly made orders in the February month generating $105k. The supermarket also made top sales above the average sales value of $53k across the months February,January,March,August,April,May,July generating $105k,$96k,$72,$69,$68k and $54k respectively. In the month of February, customers made orders mostly on Wednesdays,made top sales in tthe Lafayette city and mostly used the standard class shipping mode to delivery ordered products. The highest revenue generated was in February 2016 making $43k in sales while the highest profit as generated in February 2016 with $14k in total, Technology products were sold mostly un this month with top customer being Mr.Tamara Chand purchasing goods of $18k nd generating $9k for the supermarket.
 
 Sales by Order day
 
+![2](https://github.com/user-attachments/assets/e01ca045-6e8c-4892-8ef6-4cd0db5d5da1)
+
 From the Analysis,customers ordered mostly on Tuesdays generating a sales amount of $106k across the years. This is seconded by Sunday and Saturdays and among all days of the week,the aforementioned made sales pass the average weekly sales of $90.38k. 64% of the customers order shipped was done mostly through the standard class shipping mode especially in the New york city while 57% of products ordered were technological products. The peak sales and profit of $38k & $7k respectively was made mostly on Tuesdays in the year 2016. The top customer here who purchased more on Tuesdays was Sanjit Engle who made purchases of $8.8k and generated a profit of $2.8k for the supermarket.
 
 Order by ship mode
+
+![3](https://github.com/user-attachments/assets/924942fd-3002-4f00-879b-fb1add13767d)
 
 Customers preferred the Standard class shipping which contributed 70.04% of the total order by the customers especially in Newyork city. Customers mostly made orders with the standard class in the February especially on Sundays and purchased most Technological products. The Customer Mr.Tamara Chand contributed highly to this while the standard class shipping mode generated the highest sles and profit respecively in the year 2016.
 
 Sales by region and city
 
+![4](https://github.com/user-attachments/assets/eb2b4597-890b-4492-9444-d5273dee4281)
+
 Regionally,sales were made more in the Western region. This is seconded by Eastern,Central and Southern region. New york city generated the highest revenue generating $74k in sales. This was seconded by los Angeles and San Francisco which generated a revenue of $49k and $31k respectively. New york,Los Angeles and San Francisco made sales above the average city sales of $16k.
 
 Sales & Profit by year
+
+![5](https://github.com/user-attachments/assets/298cc4c8-36b6-4782-a841-eb086cfc9e43)
 
 Across the years,5G superstore had a gradual trajectory increase and slight decrease in sales and profit generation. The generated the highest revenue in the year 2016 making $203k in sales and $37k in profit. The least sales and profit made was in 2014 and 2015 making $110k in sales and $13k in profit.
 
 Top 10 customers by sales & profit
 
+![8](https://github.com/user-attachments/assets/3f4481dd-15c4-485a-ab8a-6d96b0bfecd8)
+
 Across the years,the customer Tamara Chand made the highest product order of $18k in sales for the supermarket generating a profit of $9k. Unfortunately, some customers like Becky Martin and Grant Thornton placed some order of $11k and $9k respectively but generating loss of $1k and $4k respectively. This could be as a result from the sales persons who don't return the actual issued receipt to the supermarket for daily sales report overview thereby stealing from the company. This can also be attributed to the poor supermarket management that fail to paste fixed price tags on available products in stock to avoid unnecessary bargain from stubborn customers.
 
 Sales by Category & sub-category
 
- 
+ ![6](https://github.com/user-attachments/assets/1d04eebc-eb3d-4662-a6f8-20dfcc8f928f)   ![7](https://github.com/user-attachments/assets/ee0663fc-a531-4372-a7c1-9a3ee4865d9b)
+
+
 
 From the chart,it shows that Technology products were orders mostly by customers. It contributed to 41% of the total sales made across the whole regions and states when compared to Furniture and office supplies. Generally,csutomers bought more of chairs,seconded by phones and machines product with some products generating losses for the supermarket. This can also be attributed to the poor supermarket management that fail to paste fixed price tags on available products in stock to avoid unnecessary bargain from stubborn customers.
 
